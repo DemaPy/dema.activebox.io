@@ -2,15 +2,9 @@
 Responsive web site. Pet project.
 
 
-## Header and hero section
+## Header and hero section and Advantages
 
 ![1](https://user-images.githubusercontent.com/80632445/229360895-bd258811-fdb2-432b-aaff-d393a60f2866.png)
-
-## Advantages
-
-![image](https://user-images.githubusercontent.com/80632445/224513574-6bbec8ec-cdbb-45c0-b8ca-6ffb06faff52.png)
-
-
 
 ## Responsive Images
 
